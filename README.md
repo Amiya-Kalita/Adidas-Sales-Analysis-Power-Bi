@@ -99,7 +99,7 @@ Retailers contributing to total sales include:
 
 ## 📷 Dashboard Preview
 
-![image alt]()
+![image alt](https://github.com/Amiya-Kalita/Adidas-Sales-Analysis-Power-Bi/blob/main/adidas_sales_analysis.JPG?raw=true)
 
 
 
