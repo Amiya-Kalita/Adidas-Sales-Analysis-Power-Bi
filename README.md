@@ -99,8 +99,7 @@ Retailers contributing to total sales include:
 
 ## 📷 Dashboard Preview
 
-
-`adidas_sales_analysis.JPG`
+adidas_sales_analysis.JPG
 *(Upload your screenshot in the repository and name it `dashboard.png`)*
 
 
