@@ -8,6 +8,11 @@ The dashboard analyzes Adidas sales performance across different **regions, stat
 The main objective of this project is to transform raw sales data into **meaningful insights using data visualization and business intelligence techniques**.
 
 
+## 📷 Dashboard Preview
+
+![image alt](https://github.com/Amiya-Kalita/Adidas-Sales-Analysis-Power-Bi/blob/main/adidas_sales_analysis.JPG?raw=true)
+
+
 
 ## 🎯 Objectives
 
@@ -94,12 +99,6 @@ Retailers contributing to total sales include:
 * Kohl's
 * Amazon
 * Walmart
-
-
-
-## 📷 Dashboard Preview
-
-![image alt](https://github.com/Amiya-Kalita/Adidas-Sales-Analysis-Power-Bi/blob/main/adidas_sales_analysis.JPG?raw=true)
 
 
 
